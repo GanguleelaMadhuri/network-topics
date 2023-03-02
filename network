@@ -60,6 +60,30 @@ HTTPS:
 HTTPS, on the other hand, is a secure version of HTTP. It uses SSL/TLS encryption to provide a secure channel between the web browser and the server
 . This encryption ensures that the data being transmitted between the client and server cannot be intercepted, read, or modified by third parties. 
 HTTPS is commonly used for transactions that involve sensitive information, such as online banking, e-commerce transactions, and secure logins.
+SSL: Secure Socket Layer
+SSL (Secure Sockets Layer) is a protocol used to secure communication over the internet. SSL is the predecessor to the newer TLS (Transport Layer 
+Security) protocol. The main uses of SSL include:
+1.Encryption: SSL uses encryption to secure the data being transmitted between the client and server. This encryption ensures that any data 
+transmitted over the internet cannot be read or modified by unauthorized parties.
+2.Authentication: SSL provides authentication to verify the identity of the server and the client. This helps to prevent man-in-the-middle attacks, 
+where an attacker intercepts the communication between the client and server and impersonates one of them.
+3.Integrity: SSL provides data integrity, which ensures that the data being transmitted between the client and server has not been tampered with or 
+modified in transit.
+VIRUS:
+A virus in a network is a malicious program that can spread from one computer to another over a network connection. A network virus can infect a 
+computer system by exploiting security vulnerabilities in the operating system or other software running on the system.
+1.Worms: A worm is a type of virus that can spread rapidly over a network, exploiting security vulnerabilities in the operating system and software 
+to infect other computers.
+2.Trojan horses: A Trojan horse is a malicious program that disguises itself as a legitimate program but actually contains harmful code that can 
+damage the network or steal data.
+3.Botnets: A botnet is a network of infected computers that can be controlled remotely by a hacker to perform malicious activities such as DDoS 
+attacks or stealing sensitive data.
+SMTP:Simple mail transfer protocol
+SMTP (Simple Mail Transfer Protocol) is a protocol used for sending and receiving email messages over the internet. SMTP is a text-based protocol 
+and operates on the application layer of the OSI model.
+FIREWALL:
+A firewall is a network security device that monitors and filters network traffic based on predetermined security rules. Firewalls can be 
+implemented in hardware or software, and are designed to protect a network from unauthorized access and malicious traffic.
 
 
 
